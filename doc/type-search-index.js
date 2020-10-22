@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"fi.tuni.tamk.tiko.rikuvesanto.util","l":"Arrays"},{"p":"fi.tuni.tamk.tiko.rikuvesanto","l":"Main"},{"p":"fi.tuni.tamk.tiko.rikuvesanto.util","l":"Math"},{"p":"fi.tuni.tamk.tiko.rikuvesanto.util","l":"MyConsole"}]
